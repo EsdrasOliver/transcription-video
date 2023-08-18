@@ -1,0 +1,31 @@
+Ferramentas 
+ - axios
+ - ytdl-core: serve para fazer download do video do youtube - https://github.com/fent/node-ytdl-core
+ - express e cors
+ - ffmpeg e fluent-ffmpeg
+ - transformers: serve para usar a IA no pc sem precisar usar recursos da openIA
+
+pegar a url de um vídeo 
+colocar no input e apertar o botao de transcrever 
+abaixo sairá o video da url e a sua transcrição do lado 
+
+FIGMA DO PROJETO
+https://www.figma.com/community/file/1268564660141195165
+
+CODIGO HTML, CSS E JS
+https://www.fronteditor.dev/gists/64e6ade5434ccd23e6ad89d50cafea3b/view
+
+DOCUMENTACAO DO YOUTUBE
+https://developers.google.com/youtube/iframe_api_reference?hl=pt-br#Getting_Started
+
+ffmpeg
+https://creatomate.com/blog/how-to-use-ffmpeg-in-nodejs
+
+código da API do youtube - ytdl-core
+https://github.com/fent/node-ytdl-core
+
+transformers
+https://github.com/xenova/transformers.js
+
+documentação da IA que converte audio 
+https://huggingface.co/tasks/automatic-speech-recognition
